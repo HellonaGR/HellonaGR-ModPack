@@ -1,5 +1,5 @@
 # 🎮 **HellonaGR's ModPack**
-### Based on [Performium](https://modrinth.com/modpack/performium-was-taken) & [Vanilla Perfected](https://modrinth.com/modpack/vanilla-perfected)
+### Based on [Vanilla Perfected](https://modrinth.com/modpack/vanilla-perfected)
 
 > The ultimate **performance** & **quality-of-life** modpack for Minecraft enthusiasts who want the best of both worlds.  
 > ⚙️ Optimized for smooth FPS, immersive visuals, and powerful utility features – all while staying close to the **vanilla feel**.
